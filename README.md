@@ -5,9 +5,7 @@
 
 Welcome to the Customer Churn Analysis project! In this project, we delve into customer data to analyze churn patterns and provide actionable insights to reduce customer attrition. Understanding why customers leave and identifying factors contributing to churn are crucial for enhancing customer retention strategies.
 
-📌 **Project Goals:** Churn Dynamics in Telecom: A Closer Look At Customer's Behavior using SQL.
-
-## Project Highlights
+📌 **Project Goals:** This project aims to analyze customer churn data, uncover patterns, and identify key drivers of churn using SQL queries and advanced data analysis techniques.
 
 📌 **Data Preprocessing:** Rigorously cleaned and prepared the customer churn data, ensuring data quality and integrity for accurate analysis.
 
@@ -43,8 +41,8 @@ Welcome to the Customer Churn Analysis project! In this project, we delve into c
 
 The Customer Churn Analysis project provides insights into customer attrition:
 
-📌 Identification of key factors influencing customer churn using SQL.
-📌 Prediction of customer churn using insights extracted through SQL queries.
+📌 Identification of key factors influencing customer churn using SQL.<br>
+📌 Prediction of customer churn using insights extracted through SQL queries.<br>
 📌 Recommendations to optimize retention strategies and enhance customer experience.
 
 ## Actionable Insights and Recommendations
