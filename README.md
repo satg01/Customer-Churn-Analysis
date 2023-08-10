@@ -64,6 +64,3 @@ When MonthlyCharges for a single service surpass 70, customer sensitivity toward
 📌 **Dashboard:** Access the interactive dashboard showcasing churn insights. [Dashboard Link](https://www.novypro.com/project/customer-churn-analysis-power-bi-2)
 
 📌 **SQL Analysis PDF:** Explore the PDF containing detailed SQL analysis findings. [SQL Analysis PDF Link](https://drive.google.com/file/d/1Wg21vrWwll7stIM3yLBiF6B_En0Nn567/view?usp=sharing)
-```
-
-I've reorganized the content to ensure that the information flows smoothly and is arranged as per your provided details. Please review and adjust as needed.
